@@ -1,8 +1,8 @@
 <p align="center"> 📌 Gerador de QR Code </p>
-Este projeto é um gerador de QR Code simples, feito com HTML, CSS e JavaScript.
+<p align="center" >Este projeto é um gerador de QR Code simples, feito com HTML, CSS e JavaScript.</p>
 
-🧩 Lógica Principal
-✅ Entrada de texto
+</br>🧩 Lógica Principal</br>
+</br>✅ Entrada de texto
 O usuário insere uma URL ou texto no campo de entrada.
 
 ✅ Geração do QR Code
